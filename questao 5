@@ -1,0 +1,11 @@
+inteiro  contador= 1 
+    real  nota 
+    real soma =0 
+    enquanto(  contador  <=4){
+      escreva("digite sua nota: ")
+      leia (nota)
+      soma=soma + nota 
+      contador = contador + 1 
+    }
+    escreva( "sua media  e " , soma/4)
+
