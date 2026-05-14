@@ -1,0 +1,6 @@
+inteiro algoritimo = 0
+
+   enquanto (algoritimo <=5){
+    algoritimo = algoritimo + 1
+    escreva( "\n" , "algoritimo" )
+   }
