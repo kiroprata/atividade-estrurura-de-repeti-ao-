@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    inteiro resultado = 0
+    inteiro numero
+
+enquanto(resultado<9){
+  escreva("\ndigite seu numero: ")
+  leia(numero)
+  resultado = numero + 2 
+  escreva ("seu resultado e ", resultado )
+}
