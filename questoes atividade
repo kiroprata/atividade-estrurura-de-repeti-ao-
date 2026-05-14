@@ -1,0 +1,9 @@
+programa {
+  funcao inicio() {
+    inteiro contagem = 11
+
+
+    enquanto (contagem >1){
+      contagem = contagem - 1
+       escreva( "\n", contagem )
+    }
