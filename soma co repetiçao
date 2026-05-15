@@ -1,0 +1,17 @@
+ inteiro contador = 1
+    inteiro numero 
+    inteiro soma = 0 
+    enquanto(contador <=5){
+      escreva(" digite seu numero: ")
+      leia (numero)
+      soma = numero + soma 
+      contador = contador + 1 
+      
+
+
+
+
+
+
+    } 
+    escreva( " sua soma e " , soma )
