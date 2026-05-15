@@ -1,0 +1,19 @@
+ inteiro contador =  1 
+   inteiro numero
+   
+
+
+   escreva(" qual seu numero: ")
+    leia (numero)
+
+   enquanto ( contador  <= 10){
+    
+
+    escreva ( numero , "x" , contador , " ="  ,numero * contador, "\n")
+
+
+    contador = contador + 1 
+
+    
+   }
+   
