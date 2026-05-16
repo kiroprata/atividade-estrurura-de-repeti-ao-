@@ -1,0 +1,16 @@
+cadeia  senha 
+
+escreva("qual sua senha ")
+leia (senha)
+
+
+enquanto (  senha !="1234"){
+  escreva( "senha incorreta . tente novamente ")
+  leia( senha )
+
+
+
+
+
+}
+ escreva(" sua senha esta correta")
